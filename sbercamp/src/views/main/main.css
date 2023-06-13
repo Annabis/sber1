@@ -1,0 +1,39 @@
+.avatar {
+    width: 80px;
+    height: 80px;
+    background-color: #d5e4f7;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #212830;
+    font-weight: 400;
+    font-size: 40px;
+    border-radius: 50%;
+}
+
+.header {
+    display: flex;
+
+    width: 100%;
+    height: 129px;
+}
+.username {
+    font-weight: 600;
+    font-size: 20px;
+    color: #333333;
+    font-family: "SB Sans Interface", sans-serif;
+}
+
+.folder {
+    display: flex;
+    align-items: center;
+}
+
+.folder > img {
+    margin-right: 6px;
+}
+
+.folders {
+    display: flex;
+    gap: 8px;
+}

@@ -1,0 +1,16 @@
+.overlay {
+    width: 100vw;
+    min-height: 100vh;
+    background-color: #f4f4f5;
+    display: flex;
+    justify-content: center;
+}
+
+.window {
+    background: #ffffff;
+    border-radius: 12px 12px 0px 0px;
+    padding: 82px 110px 92px;
+    width: 900px;
+    margin-top: 24px;
+    height: min-content;
+}
