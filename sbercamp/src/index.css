@@ -1,5 +1,6 @@
 @import url(//db.onlinewebfonts.com/c/c68e21ad1a10803b1ef491fd0392b067?family=SB+Sans+Text);
 @import url(//db.onlinewebfonts.com/c/37086b994764dba84b2ee0f1083bfeed?family=SB+Sans+Interface);
+@import url("./shared/styles/form.css");
 :root {
     font-family: "SB Sans Text", sans-serif;
     line-height: 1.5;

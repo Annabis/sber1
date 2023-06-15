@@ -1,0 +1,22 @@
+.input {
+    width: 400px;
+    height: 44px;
+    background: #ffffff;
+    /* Black Alpha/Alpha 16 */
+
+    border: 1px solid rgba(0, 0, 0, 0.16);
+    border-radius: 4px;
+    font-family: "SB Sans Interface";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 20px;
+    padding: 12px;
+    box-sizing: border-box;
+    color: #000;
+    outline: none;
+}
+
+.input::placeholder {
+    color: rgba(0, 0, 0, 0.48);
+}

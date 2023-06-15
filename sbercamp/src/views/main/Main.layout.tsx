@@ -1,6 +1,7 @@
 import {PageLayout} from "../../shared/ui/pageLayout/PageLayout";
 import "./main.css";
 import Folder from "./../../shared/icons/folder.png";
+import {MainForm} from "./Main.form";
 
 export const MainLayout = () => {
     return (
@@ -25,6 +26,7 @@ export const MainLayout = () => {
                     </div>
                 </div>
             </div>
+            <MainForm />
         </PageLayout>
     );
 };

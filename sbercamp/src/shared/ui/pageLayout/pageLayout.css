@@ -11,6 +11,10 @@
     border-radius: 12px 12px 0px 0px;
     padding: 82px 110px 92px;
     width: 900px;
+    min-height: 704px;
     margin-top: 24px;
     height: min-content;
+}
+.widePadding {
+    padding: 25px 24px 0;
 }
