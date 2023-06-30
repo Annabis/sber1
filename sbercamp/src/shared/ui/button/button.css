@@ -1,0 +1,20 @@
+.button {
+    height: 44px;
+    background: #5558fa;
+    padding: 16px 12px;
+    border-radius: 4px;
+    font-family: "SB Sans Interface";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 20px;
+    color: #ffffff;
+    display: flex;
+    align-items: center;
+}
+.outlined {
+    background-color: transparent;
+    border: 1.5px solid #5558fa;
+    font-family: "SB Sans Interface";
+    color: #5558fa;
+}

@@ -48,3 +48,7 @@
 .mainForm {
     padding-top: 24px;
 }
+
+.mainForm > *:last-child {
+    margin-top: 48px;
+}
